@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renatobettim
 - 👀 I’m interested in ... corporate relocation
-- 🌱 I’m currently learning ... node.js
-- 💞️ I’m looking to collaborate on ... oracle / php / ecommerce
+- 🌱 I’m currently learning ... node.js , go
+- 💞️ I’m looking to collaborate on ... devops , sre, manager services
 - 📫 How to reach me ... https://bettim.com.br
 
 <!---
